@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCA07YHg3X50oJL2S7yV5BOkSecTrxw7lw',
-    appId: '1:524203350619:android:f2f5348b1d503dd88e3d7e',
-    messagingSenderId: '524203350619',
-    projectId: 'chat-with-gemini-91d07',
-    storageBucket: 'chat-with-gemini-91d07.firebasestorage.app',
+    apiKey: 'YOUR_ANDROID_API_KEY',
+    appId: 'YOUR_ANDROID_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDyAy62jRJ2xr7FHcv1mMDUT9DSfZe-UiM',
-    appId: '1:524203350619:ios:1ce8103648c6013b8e3d7e',
-    messagingSenderId: '524203350619',
-    projectId: 'chat-with-gemini-91d07',
-    storageBucket: 'chat-with-gemini-91d07.firebasestorage.app',
-    iosClientId: '524203350619-u4kriajlal701jls3vk8kb6sdep8mefq.apps.googleusercontent.com',
+    apiKey: 'YOUR_IOS_API_KEY',
+    appId: 'YOUR_IOS_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
+    iosClientId: 'YOUR_IOS_CLIENT_ID',
     iosBundleId: 'com.example.chatWithGemini',
   );
 }
