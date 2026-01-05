@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524203350619",
+    "project_id": "chat-with-gemini-91d07",
+    "storage_bucket": "chat-with-gemini-91d07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524203350619:android:f2f5348b1d503dd88e3d7e",
+        "android_client_info": {
+          "package_name": "com.example.chat_with_gemini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524203350619-5d7vgdtf904ggtt44esuh5ckcecuf518.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA07YHg3X50oJL2S7yV5BOkSecTrxw7lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524203350619-5d7vgdtf904ggtt44esuh5ckcecuf518.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

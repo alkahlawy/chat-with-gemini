@@ -1,0 +1,4 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "cmake.sourceDirectory": "C:/Users/moham/StudioProjects/chat_with_gemini/linux"
+}
